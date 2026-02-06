@@ -1,0 +1,1 @@
+Per **il tipo classe** non è possibile **definire delle espressioni letterali** (vedere [[espressioni]]) , ma il loro ruolo è sostituito dai **costruttori** che possono essere chiamati **in qualsiasi espressione.**
