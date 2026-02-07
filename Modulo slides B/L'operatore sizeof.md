@@ -1,2 +1,0 @@
-L'operatore **sizeof** posto davanti **ad un oggetto** o **al nome di un tipo** (tra parentesi) ci permette di **visualizzare la dimensione in byte** di ciò che abbiamo precedentemente specificato e possiamo applicarlo **sia ai tipi fondamentali** ([[I tipi fondamentali]]) **sia ai tipi derivati** ([[I tipi derivati]] ).
-Il suo **risultato** è sempre **un intero**.

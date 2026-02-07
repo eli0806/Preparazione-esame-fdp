@@ -1,1 +1,0 @@
-Per **astrazione funzionale** si intende il **processo** atto dal programmatore di **porzionamento del codice** al fine di limitare al massimo le **anomalie** che si potrebbero generare in esso.
